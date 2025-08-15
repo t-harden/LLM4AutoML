@@ -19,6 +19,8 @@ It compiles essential details of our research along with a curated collection of
 
 ## Paper
 
+<a id="data-preprocessing"></a>
+
 ### 🧹 _Data Preprocessing_
 
 - Md Mahadi Hassan, Alex Knipper, and Shubhra Kanti Karmaker Santu. Chatgpt as your personal data scientist. arXiv preprint arXiv:2305.13657, 2023. [_[paper]_](https://arxiv.org/abs/2305.13657)
@@ -38,6 +40,8 @@ It compiles essential details of our research along with a curated collection of
 
 
 
+<a id="feature-engineering"></a>
+
 ### 🛠 _Feature Engineering_
 
 - Kristy Choi, Chris Cundy, Sanjari Srivastava, and Stefano Ermon. Lmpriors: Pre-trained language models as task-specific priors. In NeurIPS 2022 Foundation Models for Decision Making Workshop, 2022. [_[paper]_](https://arxiv.org/abs/2210.12530)
@@ -52,6 +56,8 @@ It compiles essential details of our research along with a curated collection of
 - Noah Hollmann, Samuel Müller, and Frank Hutter. Large language models for automated data science: Introducing caafe for context-aware automated feature engineering. Advances in Neural Information Processing Systems, 36, 2024. [_[paper]_](https://arxiv.org/abs/2305.03403)
 
 
+
+<a id="model-selection"></a>
 
 ### 📌 _Model Selection_
 
@@ -76,6 +82,8 @@ It compiles essential details of our research along with a curated collection of
 
 
 
+<a id="hyperparameter-optimization"></a>
+
 
 ### 🎯 _Hyperparameter Optimization_
 
@@ -96,6 +104,8 @@ It compiles essential details of our research along with a curated collection of
 
 
 
+<a id="workflow-evaluation"></a>
+
 
 ### 🧪 _Workflow Evaluation_
 
@@ -107,6 +117,8 @@ It compiles essential details of our research along with a curated collection of
 
 
 
+<a id="end-to-end-workflow-construction"></a>
+
 ### 🔗 _End-to-End Workflow Construction_
 
 - Zhengyao Jiang, Dominik Schmidt, Dhruv Srikanth, Dixing Xu, Ian Kaplan, Deniss Jacenko, Yuxiang Wu. Aide: Ai-driven exploration in the space of code[J]. arXiv preprint arXiv:2502.13138, 2025. [_[paper]_](https://arxiv.org/abs/2502.13138)
@@ -117,6 +129,8 @@ It compiles essential details of our research along with a curated collection of
 - Yixin Ou, Yujie Luo, Jingsheng Zheng, et al. AutoMind: Adaptive Knowledgeable Agent for Automated Data Science[J]. arXiv preprint arXiv:2506.10974, 2025. [_[paper]_](https://arxiv.org/abs/2506.10974)
 
 
+
+<a id="benchmark"></a>
 
 
 ### 🏆 _Benchmark_
