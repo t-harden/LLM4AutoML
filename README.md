@@ -1,4 +1,4 @@
-# 📕 LLMs for ML Workflows
+# 📕 LLMs for ML Workflows 🤖
 
 <br />
 
@@ -19,7 +19,7 @@ It compiles essential details of our research along with a curated collection of
 
 ## Paper
 
-### _Data Preprocessing_
+### 🧹 _Data Preprocessing_
 
 - Md Mahadi Hassan, Alex Knipper, and Shubhra Kanti Karmaker Santu. Chatgpt as your personal data scientist. arXiv preprint arXiv:2305.13657, 2023. [_[paper]_](https://arxiv.org/abs/2305.13657)
 - Shang-Ching Liu, ShengKun Wang, Tsungyao Chang, Wenqi Lin, Chung-Wei Hsiung, Yi-Chen Hsieh, Yu-Ping Cheng, Sian-Hong Luo, and Jianwei Zhang. Jarvix: A llm no code platform for tabular data analysis and optimization. In Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing: Industry Track, pages 622–630, 2023. [_[paper]_](https://aclanthology.org/2023.emnlp-industry.59/)
@@ -38,7 +38,7 @@ It compiles essential details of our research along with a curated collection of
 
 
 
-### _Feature Engineering_
+### 🛠 _Feature Engineering_
 
 - Kristy Choi, Chris Cundy, Sanjari Srivastava, and Stefano Ermon. Lmpriors: Pre-trained language models as task-specific priors. In NeurIPS 2022 Foundation Models for Decision Making Workshop, 2022. [_[paper]_](https://arxiv.org/abs/2210.12530)
 - Daqin Luo, Chengjian Feng, Yuxuan Nong, and Yiqing Shen. Autom3l: An automated multimodal machine learning framework with large language models. arXiv preprint arXiv:2408.00665, 2024. [_[paper]_](https://arxiv.org/abs/2408.00665)
@@ -53,7 +53,7 @@ It compiles essential details of our research along with a curated collection of
 
 
 
-### _Model Selection_
+### 📌 _Model Selection_
 
 - Ekrem Öztürk, Fabio Ferreira, Hadi Jomaa, Lars Schmidt-Thieme, Josif Grabocka, and Frank Hutter. Zero-shot automl with pretrained models. In International Conference on Machine Learning, pages 17138–17155. PMLR, 2022. [_[paper]_](https://proceedings.mlr.press/v162/ozturk22a.html)
 - Shujian Zhang, Chengyue Gong, Lemeng Wu, Xingchao Liu, and Mingyuan Zhou. Automl-gpt: Automatic machine learning with gpt. arXiv preprint arXiv:2305.02499, 2023d. [_[paper]_](https://arxiv.org/abs/2305.02499)
@@ -77,7 +77,7 @@ It compiles essential details of our research along with a curated collection of
 
 
 
-### _Hyperparameter Optimization_
+### 🎯 _Hyperparameter Optimization_
 
 - Shujian Zhang, Chengyue Gong, Lemeng Wu, Xingchao Liu, and Mingyuan Zhou. Automl-gpt: Automatic machine learning with gpt. arXiv preprint arXiv:2305.02499, 2023d. [_[paper]_](https://arxiv.org/abs/2305.02499)
 - Mingkai Zheng, Xiu Su, Shan You, Fei Wang, Chen Qian, Chang Xu, and Samuel Albanie. Can gpt-4 perform neural architecture search? arXiv preprint arXiv:2304.10970, 2023. [_[paper]_](https://arxiv.org/abs/2304.10970)
@@ -97,7 +97,7 @@ It compiles essential details of our research along with a curated collection of
 
 
 
-### _Workflow Evaluation_
+### 🧪 _Workflow Evaluation_
 
 - Shujian Zhang, Chengyue Gong, Lemeng Wu, Xingchao Liu, and Mingyuan Zhou. Automl-gpt: Automatic machine learning with gpt. arXiv preprint arXiv:2305.02499, 2023d. [_[paper]_](https://arxiv.org/abs/2305.02499) 
 - Jinglue Xu, Zhen Liu, Nagar Anthel Venkatesh Suryanarayanan, and Hitoshi Iba. Large language models synergize with automated machine learning. arXiv preprint arXiv:2405.03727, 2024. [_[paper]_](https://arxiv.org/abs/2405.03727)
@@ -107,7 +107,7 @@ It compiles essential details of our research along with a curated collection of
 
 
 
-### _End-to-End Workflow Construction_
+### 🔗 _End-to-End Workflow Construction_
 
 - Zhengyao Jiang, Dominik Schmidt, Dhruv Srikanth, Dixing Xu, Ian Kaplan, Deniss Jacenko, Yuxiang Wu. Aide: Ai-driven exploration in the space of code[J]. arXiv preprint arXiv:2502.13138, 2025. [_[paper]_](https://arxiv.org/abs/2502.13138)
 - Qian Huang, Jian Vora, Percy Liang, and Jure Leskovec. MLAgentBench: Evaluating Language Agents on Machine Learning Experimentation. In Forty-first International Conference on Machine Learning. [_[paper]_](https://arxiv.org/abs/2310.03302)
@@ -119,7 +119,7 @@ It compiles essential details of our research along with a curated collection of
 
 
 
-### _Benchmark_
+### 🏆 _Benchmark_
 - Jun Shern Chan, Neil Chowdhury, Oliver Jaffe, James Aung, Dane Sherburn, Evan Mays, Giulio Starace, Kevin Liu, Leon Maksin, Tejal Patwardhan, et al . 2024. Mle-bench: Evaluating machine learning agents on machine learning engineering. arXiv preprint arXiv:2410.07095 (2024). [_[paper]_](https://arxiv.org/abs/2410.07095)
 - Qian Huang, Jian Vora, Percy Liang, and Jure Leskovec. 2024. MLAgentBench: Evaluating Language Agents on Machine Learning Experimentation. In Forty-first International Conference on Machine Learning. [_[paper]_](https://arxiv.org/abs/2310.03302)
 - Antoine Grosnit, Alexandre Maraval, James Doran, et al. Large language models orchestrating structured reasoning achieve kaggle grandmaster level[J]. arXiv preprint arXiv:2411.03562, 2024. [_[paper]_](https://arxiv.org/abs/2411.03562)
